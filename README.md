@@ -1,6 +1,56 @@
 <h1 align="center">Hi 👋, I'm Joel Diaz</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
+<h3 align="left">Projects:</h3>
+<h4>Random Tips<h4>
+<p>
+<a href="https://dawexamendiaz-7iickfu1p-joeldiaz93.vercel.app/" target="_blank">Web App</a>
+-
+<a href="https://github.com/JoelDiaz93/ExamenDAW_Vercel" target="_blank">Repository</a>
+</p>
+<h4>Pet page<h4>
+<p>
+<a href="https://mascotas-c83e9.web.app/" target="_blank">Store Web</a>
+-
+<a href="https://github.com/JoelDiaz93/Project-Mascotas" target="_blank">Repository</a>
+</p>
+<h4>App Rick and Morty<h4>
+<p>
+<a href="https://github.com/JoelDiaz93/Ionic-Api-rickandmorty/releases/tag/0.1" target="_blank">Mobile App Installer</a>
+-
+<a href="https://github.com/JoelDiaz93/Ionic-Api-rickandmorty" target="_blank">Repository</a>
+</p>
+<h4>App Chat<h4>
+<p>
+<a href="https://github.com/JoelDiaz93/Ionic-Firebase-chat-login-files/releases/tag/v0.1" target="_blank">Mobile App Installer</a>
+-
+<a href="https://github.com/JoelDiaz93/Ionic-Firebase-chat-login-files" target="_blank">Repository</a>
+</p>
+<h4>To Do list<h4>
+<p>
+<a href="https://github.com/JoelDiaz93/Xamarin-ToDoList/releases/tag/v0.1" target="_blank">Mobile App Installer</a>
+-
+<a href="https://github.com/JoelDiaz93/Xamarin-ToDoList" target="_blank">Repository</a>
+</p>
+<h4>Keylogger Windows<h4>
+<p>
+<a href="https://github.com/JoelDiaz93/Cpp-Keylogger/releases/tag/v0.1" target="_blank">Installer</a>
+-
+<a href="https://github.com/JoelDiaz93/Cpp-Keylogger" target="_blank">Repository</a>
+</p>
+<h4>To Do List<h4>
+<p>
+<a href="https://note-sockets-crud.herokuapp.com/" target="_blank">Web App</a>
+-
+<a href="https://github.com/JoelDiaz93/Node.js-Socket-Crud" target="_blank">Repository</a>
+</p>
+<h4>Gallery<h4>
+<p>
+<a href="https://mern-gallery-jdiaz.herokuapp.com/" target="_blank">Web App</a>
+-
+<a href="https://github.com/JoelDiaz93/MERN-Image" target="_blank">Repository</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joel-díaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-díaz" height="30" width="40" /></a>
