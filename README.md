@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Diaz</h1>
-<h3 align="center">A passionate frontend developer from Ecuador</h3>
+<h3 align="center">A passionate software developer from Ecuador, looking for challenges and continuous learning. I am a highly organized, ethical and responsible professional. I possess the fundamental knowledge and skills to develop products that meet business objectives, ensuring efficiency and optimal performance. Below I have a list of personal projects that might interest you:</h3>
 
 <h3 align="left">Projects:</h3>
 <h4>Random Tips<h4>
