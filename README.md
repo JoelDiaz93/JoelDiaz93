@@ -1,67 +1,114 @@
-Hi, I'm Joel 👋
+# Hi, I'm Joel 👋
 
-Software Engineer | Backend & Full Stack
+## Software Engineer | Backend & Full Stack
 
-Backend-focused Software Engineer with experience building
-scalable APIs, microservices and cloud-native applications.
+Backend-focused Software Engineer with experience building scalable APIs, microservices, and cloud-native applications.
 
-.NET • TypeScript • Node.js • Go • AWS • PostgreSQL
+**.NET • TypeScript • Node.js • Go • AWS • PostgreSQL**
 
+---
 
-About Me
+## 🚀 About Me
 
-• Backend & distributed systems
-• Financial software experience
-• REST APIs & microservices
-• AWS cloud architecture
-• CI/CD & automated testing
+- Backend and full stack software engineer
+- Experience building **REST APIs** and **microservices**
+- Background in **financial software** and business systems
+- Focused on **cloud-native applications**, **clean architecture**, and **automated testing**
+- Interested in scalable systems, integration, and product-oriented development
 
+---
 
-Featured Projects
+## 📌 Featured Projects
 
-EVENTRA
-Privacy-first Windows telemetry platform
-Go | C++ | SvelteKit | PostgreSQL | Docker
+### **Eventra**
+**Privacy-first Windows telemetry platform**  
+**Stack:** Go • C++ • SvelteKit • PostgreSQL • Docker
 
-QRFlow
-Dynamic QR management platform
-Next.js | .NET | PostgreSQL
+- Native Windows agent for activity telemetry
+- Backend API for sessions, ingestion, and analytics
+- Dashboard for monitoring and insights
+- Designed with privacy-first principles
 
-AI Social Publisher
-AI-powered social media automation
-Node.js | TypeScript | AWS
+🌐 **Demo:** [Live Demo](https://eventra.pages.dev/)
 
+---
 
-Tech Stack
+### **QRFlow**
+**Dynamic QR management platform**  
+**Stack:** Next.js • .NET • PostgreSQL
 
-Backend
-.NET | Node.js | TypeScript | Go
+- QR code generation and management
+- Analytics and tracking
+- Full stack architecture for business use cases
 
-Frontend
-React | Angular | SvelteKit
+🔗 **Repository:** [QRFlow](https://github.com/JoelDiaz93/Nextjs-QR_Code_Generator)  
+🌐 **Demo:** [Live Demo](https://nextjs-qr-code-generator-one.vercel.app/)
 
-Cloud
-AWS | Docker | GitHub Actions
+---
 
-Databases
-PostgreSQL | SQL Server | MongoDB
+### **AI Social Publisher**
+**AI-powered social media automation platform**  
+**Stack:** Node.js • TypeScript • AWS
 
+- AI-assisted content generation
+- Scheduled publishing workflows
+- Social media automation and integrations
 
-Engineering
+🔗 **Live Demo:** [AI Social Publisher](#)
 
-Microservices
-Clean Architecture
-REST APIs
-Event Driven Architecture
-CI/CD
-Automated Testing
+---
 
+## 🛠 Tech Stack
 
-GitHub Stats
+### Backend
+- .NET / C#
+- Java
+- Node.js
+- TypeScript
+- Go
 
+### Frontend
+- React
+- Angular
+- SvelteKit
 
-Connect with me
+### Cloud & DevOps
+- AWS
+- Docker
+- GitHub Actions
 
-LinkedIn
-Email
-Portfolio
+### Databases
+- PostgreSQL
+- SQL Server
+- MongoDB
+
+---
+
+## Engineering Focus
+
+- Microservices
+- Clean Architecture
+- REST APIs
+- Event-Driven Architecture
+- CI/CD
+- Automated Testing
+- Distributed Systems
+- Cloud Integrations
+
+---
+
+## 📊 GitHub Stats
+
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelDiaz93&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelDiaz93&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+- **LinkedIn:** ![[Carlos Diaz](https://www.linkedin.com/in/cjoeldiaz/)](#)
+- **Portfolio:** ![Portfolio](https://carlosdiazec.com/es)
+- **Email:** code.carlosdiaz@gmail.com
+
+---
